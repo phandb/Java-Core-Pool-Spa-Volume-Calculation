@@ -1,0 +1,60 @@
+---------------------------------------------------------------------
+-----------------Pool Data-------------
+Selected Pool Model:  Custom
+Selected Pool  Shape:  Rectangular
+Pool Dimension Unit in Feet
+Pool Length:  10
+Pool Width:  10
+Pool Depth:  8
+Pool Volume in Gallons:  5985.0
+------------------------------------------------------------------------------------------------------------------------------------------------
+-----------------Pool Data-------------
+Selected Pool Model:  Custom
+Selected Pool  Shape:  Rectangular
+Pool Dimension Unit in Meter
+Pool Length:  10
+Pool Width:  9
+Pool Depth:  7
+Pool Volume Required:  630,000  Liters.
+Pool Gunnite Required:  630  Cubic Meter
+------------------------------------------------------------------------------------------------------------------------------------------------
+-----------------Pool Data-------------
+Selected Pool Model:  Custom
+Selected Pool  Shape:  Rectangular
+Pool Dimension Unit in Meter
+Pool Length:  10
+Pool Width:  8
+Pool Depth:  7
+Pool Volume Required:  560,000  Liters.
+Pool Gunnite Required:  560  Cubic Meter
+------------------------------------------------------------------------------------------------------------------------------------------------
+-----------------Pool Data-------------
+Selected Pool Model:  Custom
+Selected Pool  Shape:  Rectangular
+Pool Dimension Unit in Feet
+Pool Length:  10
+Pool Width:  8
+Pool Depth:  7
+Pool Volume Required:  4,189.36  Gallons.
+Pool Gunnite Required:  560  Cubic Feet
+------------------------------------------------------------------------------------------------------------------------------------------------
+-----------------Pool Data-------------
+Selected Pool Model:  Custom
+Selected Pool  Shape:  Rectangular
+Pool Dimension Unit in Meter
+Pool Length:  10
+Pool Width:  8
+Pool Depth:  7
+Pool Volume Required:  560,000  Liters.
+Pool Gunnite Required:  560  Cubic Meter
+------------------------------------------------------------------------------------------------------------------------------------------------
+-----------------Pool Data-------------
+Selected Pool Model:  Pacific
+Selected Pool  Shape:  Rectangular
+Pool Dimension Unit in Feet
+Pool Length:  25
+Pool Width:  10
+Pool Depth:  6
+Pool Volume Required:  11,221.5  Gallons.
+Pool Gunnite Required:  1,500  Cubic Feet
+---------------------------------------------------------------------------

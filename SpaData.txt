@@ -1,0 +1,202 @@
+---------------------------------------------------------------------
+-----------------Spa Data-------------
+Selected Spa Model:  Custom
+Selected Spa  Shape:  Rectangular
+Spa Dimension Unit in Feet
+Spa Length:  10
+Spa Width:  10
+Spa Depth:  10
+Spa Volume in Gallons:  7481.0
+------------------------------------------------------------------------------------------------------------------------------------------------
+-----------------Spa Data-------------
+Selected Spa Model:  Custom
+Selected Spa  Shape:  Rectangular
+Spa Dimension Unit in Feet
+Spa Length:  100
+Spa Width:  10
+Spa Depth:  10
+Spa Volume in Gallons:  74810.0
+------------------------------------------------------------------------------------------------------------------------------------------------
+-----------------Spa Data-------------
+Selected Spa Model:  Custom
+Selected Spa  Shape:  Rectangular
+Spa Dimension Unit in Feet
+Spa Length:  100
+Spa Width:  10
+Spa Depth:  10
+Spa Volume in Gallons:  74810.0
+------------------------------------------------------------------------------------------------------------------------------------------------
+-----------------Spa Data-------------
+Selected Pool Model:  Custom
+Selected Pool  Shape:  Rectangular
+Pool Dimension Unit in Feet
+Pool Length:  10
+Pool Width:  10
+Pool Depth:  10
+Pool Volume in Gallons:  7481.0
+------------------------------------------------------------------------------------------------------------------------------------------------
+-----------------Spa Data-------------
+Selected Pool Model:  Custom
+Selected Pool  Shape:  Rectangular
+Pool Dimension Unit in Feet
+Pool Length:  10
+Pool Width:  10
+Pool Depth:  10
+Pool Volume in Gallons:  7481.0
+------------------------------------------------------------------------------------------------------------------------------------------------
+-----------------Spa Data-------------
+Selected Spa Model:  Custom
+Selected Spa  Shape:  Rectangular
+Spa Dimension Unit in Feet
+Spa Length:  10
+Spa Width:  10
+Spa Depth:  10
+Spa Volume in Gallons:  7481.0
+------------------------------------------------------------------------------------------------------------------------------------------------
+-----------------Spa Data-------------
+Selected Spa Model:  Custom
+Selected Spa  Shape:  Rectangular
+Spa Dimension Unit in Feet
+Spa Length:  15
+Spa Width:  10
+Spa Depth:  8
+Spa Volume in Gallons:  8977.0
+------------------------------------------------------------------------------------------------------------------------------------------------
+-----------------Spa Data-------------
+Selected Spa Model:  Custom
+Selected Spa  Shape:  Round
+Spa Dimension Unit in Meter
+Spa Length:  10
+Spa Width:  12
+Spa Depth:  5
+Spa Volume in Gallons:  
+------------------------------------------------------------------------------------------------------------------------------------------------
+-----------------Spa Data-------------
+Selected Spa Model:  Custom
+Selected Spa  Shape:  Round
+Spa Dimension Unit in Feet
+Spa Length:  10
+Spa Width:  5
+Spa Depth:  5
+Spa Volume in Gallons:  
+------------------------------------------------------------------------------------------------------------------------------------------------
+-----------------Spa Data-------------
+Selected Spa Model:  Custom
+Selected Spa  Shape:  Rectangular
+Spa Dimension Unit in Feet
+Spa Length:  10
+Spa Width:  10
+Spa Depth:  5
+Spa Volume Required:  3741.0
+Spa Gunnite Required:  500.0
+------------------------------------------------------------------------------------------------------------------------------------------------
+-----------------Spa Data-------------
+Selected Spa Model:  Custom
+Selected Spa  Shape:  Rectangular
+Spa Dimension Unit in Meter
+Spa Length:  10
+Spa Width:  10
+Spa Depth:  5
+Spa Volume Required:  500000.0
+Spa Gunnite Required:  500.0
+------------------------------------------------------------------------------------------------------------------------------------------------
+-----------------Spa Data-------------
+Selected Spa Model:  Custom
+Selected Spa  Shape:  Round
+Spa Dimension Unit in Feet
+Spa Length:  10
+Spa Width:  10
+Spa Depth:  8
+Spa Volume Required:  4700.0
+Spa Gunnite Required:  800.0
+------------------------------------------------------------------------------------------------------------------------------------------------
+-----------------Spa Data-------------
+Selected Spa Model:  Custom
+Selected Spa  Shape:  Round
+Spa Dimension Unit in Meter
+Spa Length:  10
+Spa Width:  10
+Spa Depth:  8
+Spa Volume Required:  628319.0
+Spa Gunnite Required:  800.0
+------------------------------------------------------------------------------------------------------------------------------------------------
+-----------------Spa Data-------------
+Selected Spa Model:  Custom
+Selected Spa  Shape:  Round
+Spa Dimension Unit in Feet
+Spa Length:  10
+Spa Width:  10
+Spa Depth:  8
+Spa Volume Required:  4700.0
+Spa Gunnite Required:  800.0
+------------------------------------------------------------------------------------------------------------------------------------------------
+-----------------Spa Data-------------
+Selected Spa Model:  Custom
+Selected Spa  Shape:  Round
+Spa Dimension Unit in Meter
+Spa Length:  10
+Spa Width:  10
+Spa Depth:  8
+Spa Volume Required:  628319.0
+Spa Gunnite Required:  800.0
+------------------------------------------------------------------------------------------------------------------------------------------------
+-----------------Spa Data-------------
+Selected Spa Model:  Custom
+Selected Spa  Shape:  Rectangular
+Spa Dimension Unit in Feet
+Spa Length:  10
+Spa Width:  10
+Spa Depth:  8
+Spa Volume Required:  5985.0Gallons.
+Spa Gunnite Required:  800.0Cubic Feet
+------------------------------------------------------------------------------------------------------------------------------------------------
+-----------------Spa Data-------------
+Selected Spa Model:  Custom
+Selected Spa  Shape:  Rectangular
+Spa Dimension Unit in Meter
+Spa Length:  10
+Spa Width:  10
+Spa Depth:  8
+Spa Volume Required:  800000.0Liters.
+Spa Gunnite Required:  800.0Cubic Meter
+------------------------------------------------------------------------------------------------------------------------------------------------
+-----------------Spa Data-------------
+Selected Spa Model:  Custom
+Selected Spa  Shape:  Rectangular
+Spa Dimension Unit in Feet
+Spa Length:  10
+Spa Width:  10
+Spa Depth:  8
+Spa Volume Required:  5985.0 Gallons.
+Spa Gunnite Required:  800.0 Cubic Feet
+------------------------------------------------------------------------------------------------------------------------------------------------
+-----------------Spa Data-------------
+Selected Spa Model:  Custom
+Selected Spa  Shape:  Rectangular
+Spa Dimension Unit in Meter
+Spa Length:  10
+Spa Width:  10
+Spa Depth:  8
+Spa Volume Required:  800000.0 Liters.
+Spa Gunnite Required:  800.0 Cubic Meter
+------------------------------------------------------------------------------------------------------------------------------------------------
+-----------------Spa Data-------------
+Selected Spa Model:  Custom
+Selected Spa  Shape:  Rectangular
+Spa Dimension Unit in Feet
+Spa Length:  10
+Spa Width:  8
+Spa Depth:  7
+Spa Volume Required:  4,189.36  Gallons.
+Spa Gunnite Required:  560  Cubic Feet
+------------------------------------------------------------------------------------------------------------------------------------------------
+-----------------Spa Data-------------
+Selected Spa Model:  Oasis
+Selected Spa  Shape:  Rectangular
+Spa Dimension Unit in Feet
+Spa Length:  12
+Spa Width:  25
+Spa Depth:  5
+Spa Volume Required:  11,221.5  Gallons.
+Spa Gunnite Required:  1,500  Cubic Feet
+---------------------------------------------------------------------------

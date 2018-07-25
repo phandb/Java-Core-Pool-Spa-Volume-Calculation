@@ -1,0 +1,10 @@
+---------------------------------------------------------------------
+-----------------Spa Data-------------
+Selected Spa Model:  Custom
+Selected Spa  Shape:  Rectangular
+Spa Dimension Unit in Feet
+Spa Length:  10
+Spa Width:  10
+Spa Depth:  10
+Spa Volume in Gallons:  7481.0
+---------------------------------------------------------------------------

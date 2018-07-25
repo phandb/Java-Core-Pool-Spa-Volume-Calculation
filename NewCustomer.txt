@@ -1,0 +1,45 @@
+---------------------------------------------------------------------
+-----------------New Customer-------------
+First Name:  dalton
+Last Name:  phan
+Address:  13401 metric bvld
+Address Line 2:  
+City:  austin
+State:  tx
+Zip:  78665
+Phone:  5123456789
+
+------------------------------------------------------------------------------------------------------------------------------------------------
+-----------------New Customer-------------
+First Name:  Dalton
+Last Name:  Phan
+Address:  802 hank Aaron Ln
+Address Line 2:  
+City:  Round Rock
+State:  TX
+Zip:  786665
+Phone:  5123456789
+
+------------------------------------------------------------------------------------------------------------------------------------------------
+-----------------New Customer-------------
+First Name:  sddgdg
+Last Name:  dfg
+Address:  fgfg
+Address Line 2:  dvag
+City:  advs
+State:  AL
+Zip:  bdfb
+Phone:  dfad
+
+------------------------------------------------------------------------------------------------------------------------------------------------
+-----------------New Customer-------------
+First Name:  gxgfxgxg
+Last Name:  cnbcnc
+Address:  nvvnvn
+Address Line 2:  n n n n
+City:  nvnvnv
+State:  TX
+Zip:  jfjhd
+Phone:  gcv,n,,m 
+
+---------------------------------------------------------------------------
